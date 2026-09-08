@@ -1,0 +1,11 @@
+{
+  "autoplayNextEnabled": true,
+  "backgroundDaemonEnabled": true,
+  "background_daemon_enabled": true,
+  "homeFeedKind": "trending",
+  "hoverPreviewsEnabled": true,
+  "maxQualityHeight": 360,
+  "showDebugOverlay": false,
+  "uiSoundsEnabled": true,
+  "volume": 100
+}
